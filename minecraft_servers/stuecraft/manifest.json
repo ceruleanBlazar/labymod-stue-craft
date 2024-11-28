@@ -3,6 +3,8 @@
   "nice_name": "STUE-CRAFT",
   "direct_ip": "hannastue.de",
   "server_wildcards": [
+    "stue-craft.hannastue.de",
+    "stuecraft.hannastue.de",
     "play.hannastue.de"
   ],
   "supported_languages": [
