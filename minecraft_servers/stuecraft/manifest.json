@@ -1,0 +1,32 @@
+{
+  "server_name": "stuecraft",
+  "nice_name": "STUE-CRAFT",
+  "direct_ip": "hannastue.de",
+  "server_wildcards": [
+    "play.hannastue.de"
+  ],
+  "supported_languages": [
+     "de"
+  ],
+  "social": {
+    "web": "https://hannastue.de",
+    "tiktok": "hanastue",
+    "instagram": "hannastue",
+    "discord": "https://discord.gg/hannastue",
+    "youtube": "https://www.youtube.com/channel/UCmAGj4UiPyBxKOV5ryobefw"
+  },
+  "discord": {
+    "server_id": 1145348979836584096,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#C502DE",
+     "background": "#780087",
+     "text": "#FFFFFF"
+  }, 
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+  }
+}
